@@ -4,6 +4,10 @@
 
 #include <stdio.h>
 
+void func() {
+    printf("Linux add this function\n");
+}
+
 int main() {
     printf("this is a test\n");
 }
